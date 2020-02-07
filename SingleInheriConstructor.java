@@ -20,7 +20,7 @@ class SingleInheriConstructor extends Parent
 	
 	public static void main(String args[])
 	{
-		Child c1=new Child();
+		SingleInheriConstructor c1=new SingleInheriConstructor();
 		
 	}
 }
